@@ -1,2 +1,2 @@
 Tämä on tekssti 1 tiedosto ja sen hieno sisältö!
-Toinenkin rivi.
+Toinen rivi Teksti1.txt tiedostossa.
