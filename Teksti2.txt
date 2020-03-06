@@ -2,4 +2,5 @@ Tässä Teksti2.txt sisältö!
 Toinen rivikin löytyy tästä tiedostosta, wow!
 Ja vielä kolmas, mitä ihmettä!
 Jatketaan hommia.
-Muokataan vielä.
+
+Muokattu rivi.
